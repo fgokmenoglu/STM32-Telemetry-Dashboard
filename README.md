@@ -4,6 +4,8 @@ A lightweight Hardware-in-the-Loop (HIL) prototype demonstrating real-time seria
 
 This project bridges the gap between embedded test automation and 3D industrial simulation, proving out the data pipeline required for rendering physical hardware states in a digital environment.
 
+https://github.com/user-attachments/assets/40937783-edf9-4bc1-b2c9-1efa2059e50f
+
 ## 🛠️ Tech Stack
 * **Hardware:** NUCLEO-G491RE (ARM Cortex-M4)
 * **Firmware:** Embedded C via STM32CubeIDE (HAL Drivers)
