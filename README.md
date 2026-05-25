@@ -16,9 +16,9 @@ This project bridges the gap between embedded test automation and 3D industrial 
 ## 🧬 Phase 2: Biometric Digital Twin (Active)
 Transitioning from synthetic data to physical human-machine interaction, this phase captures raw electromyography (EMG) signals and translates them into a scalable 3D digital twin.
 
-> **Hardware Setup:** *(Placeholder: Insert your photo of the board, sensor, and arm pads here later using `![Hardware Setup](image_path.jpg)`)*
+> **Hardware Setup:** *(Placeholder for Hardware Setup*
 
-> **Live Demo:** *(Placeholder: Insert your video of the Unity sphere inflating while you flex here later)*
+> **Live Demo:** *(Placeholder for Demo Record*
 
 ### How It Works:
 1. **Biometric Capture:** A Grove EMG Detector is attached to the user's forearm (targeting the Flexor Carpi group). 
